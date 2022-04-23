@@ -52,7 +52,7 @@ namespace CarWindowsApp
                 }
                 else
                 {
-                    MessageBox.Show("Du kan kun indtaste en nummerisk værdi i prisfeltet!");
+                    MessageBox.Show("Du kan kun indtaste en numerisk værdi i prisfeltet!");
                 }
             }
         }
